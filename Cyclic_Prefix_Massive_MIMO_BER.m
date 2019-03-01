@@ -1,3 +1,6 @@
+% Author: Prabhu Chandhar, Chandhar Research Labs, Chennai, India.
+
+
 clc;
 clear all;
 n_bits = 10000;% Number of bits
